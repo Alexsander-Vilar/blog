@@ -1,0 +1,22 @@
+
+
+.container__menu-bar > ul{
+  display: flex;
+  flex-direction: row;
+}
+.container__menu-bar-creator > ul > span {
+
+  font-family: 'Dancing Script', cursive;
+  color: brown;
+  margin-right: 25px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+
+
+.container__menu-bar > ul > li{
+  margin-right: 25px;
+  list-style: none;
+}
+
